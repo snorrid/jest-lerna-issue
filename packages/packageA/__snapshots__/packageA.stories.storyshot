@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots PackageA ComponentA 1`] = `
+<PortalMock>
+  <div>
+    Hello world
+  </div>
+</PortalMock>
+`;
